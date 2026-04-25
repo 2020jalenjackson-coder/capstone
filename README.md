@@ -39,4 +39,4 @@ This project was developed using Python with:
 
 ## Author
 Jalen Jackson  
-M.S. Biomedical Data Science – Meharry Medical College
+M.S. Data Science – Meharry Medical College
