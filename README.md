@@ -1,4 +1,4 @@
-# Sarcoidosis Classification Using Machine Learning
+# A Machine Learning Framework for Predicting Pulmonary Sarcoidosis Using Multi-Cohort Gene Expression
 
 This project develops a machine learning framework to classify pulmonary sarcoidosis using multi-cohort gene expression data.
 
