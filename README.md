@@ -28,8 +28,11 @@ This project develops a machine learning framework to classify pulmonary sarcoid
 - Feature selection (SelectKBest)
 - Leave-One-Cohort-Out (LOGO) validation
 
-## Files
-- Final.ipynb → Full pipeline (preprocessing, modeling, evaluation)
+## File Structure
+
+- Final.ipynb → Main pipeline (model training, evaluation, ROC, confusion matrix)
+- Preprocess.ipynb → Data cleaning, gene matching, and feature selection
+- Final Capstone Presentation (2).pptx → Presentation slides
 
 ## Reproducibility
 This project was developed using Python with:
